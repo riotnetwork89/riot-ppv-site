@@ -1,0 +1,1 @@
+export default function Upload() { return <div style={{ padding: '2rem' }}><h1>Upload Page</h1></div>; }
